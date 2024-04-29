@@ -1,0 +1,1042 @@
+[
+    {
+        "question": "In React, which method is used to change the state of a component?",
+        "A": "setState()",
+        "B": "modifyState()",
+        "C": "updateState()",
+        "D": "changeState()",
+        "answer": "A"
+      },
+      {
+        "question": "What does CSS stand for?",
+        "A": "Cascading Style Sheets",
+        "B": "Creative Style Sheets",
+        "C": "Coding Style Sheets",
+        "D": "Computer Style Sheets",
+        "answer": "A"
+      },
+      {
+        "question": "Which HTML tag is used to define an unordered list?",
+        "A": "<ul>",
+        "B": "<ol>",
+        "C": "<li>",
+        "D": "<list>",
+        "answer": "A"
+      },
+      {
+        "question": "What does the 'document' object represent in JavaScript?",
+        "A": "The browser's window",
+        "B": "The HTML document itself",
+        "C": "The currently executing script",
+        "D": "The user's device",
+        "answer": "B"
+      },
+      {
+        "question": "What is Tailwind CSS primarily used for?",
+        "A": "Building responsive layouts",
+        "B": "Creating interactive web applications",
+        "C": "Styling HTML elements",
+        "D": "Managing server-side logic",
+        "answer": "A"
+      },
+      {
+        "question": "Which WordPress file is responsible for displaying individual blog posts?",
+        "A": "single.php",
+        "B": "index.php",
+        "C": "header.php",
+        "D": "functions.php",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'alt' attribute in HTML?",
+        "A": "To define alternative text for an image",
+        "B": "To specify an alternative webpage to navigate to",
+        "C": "To apply alternative styles to an element",
+        "D": "To provide an alternative color for a background",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'addEventListener' method?",
+        "A": "To remove an event listener from an element",
+        "B": "To add a new event handler to an element",
+        "C": "To execute an event immediately",
+        "D": "To prevent the default action of an event",
+        "answer": "B"
+      },
+      {
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "A": "<a>",
+        "B": "<link>",
+        "C": "<href>",
+        "D": "<url>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the primary purpose of JavaScript?",
+        "A": "To add styling to web pages",
+        "B": "To create and manipulate dynamic content",
+        "C": "To define the structure of a webpage",
+        "D": "To manage server-side operations",
+        "answer": "B"
+      },
+      {
+        "question": "Which CSS property is used to change the color of text?",
+        "A": "color",
+        "B": "text-color",
+        "C": "font-color",
+        "D": "text-style",
+        "answer": "A"
+      },
+      {
+        "question": "In React, what is JSX?",
+        "A": "A JavaScript extension that allows writing HTML within JavaScript code",
+        "B": "A method for defining stateful components",
+        "C": "A built-in React component for handling forms",
+        "D": "A CSS preprocessor used in React projects",
+        "answer": "A"
+      },
+      {
+        "question": "Which HTML tag is used to define a table row?",
+        "A": "<tr>",
+        "B": "<td>",
+        "C": "<th>",
+        "D": "<table>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'import' statement in JavaScript?",
+        "A": "To include external JavaScript files",
+        "B": "To export variables and functions from a module",
+        "C": "To import CSS stylesheets into an HTML document",
+        "D": "To initialize a new JavaScript object",
+        "answer": "A"
+      },
+      {
+        "question": "Which WordPress file is responsible for displaying the site's homepage?",
+        "A": "index.php",
+        "B": "home.php",
+        "C": "front-page.php",
+        "D": "template-home.php",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'class' attribute in HTML?",
+        "A": "To define a class in CSS",
+        "B": "To specify a class in JavaScript",
+        "C": "To apply styling to an element",
+        "D": "To group elements for styling or scripting",
+        "answer": "D"
+      },
+      {
+        "question": "In JavaScript, what is the 'this' keyword used for?",
+        "A": "To reference the current HTML document",
+        "B": "To refer to the current object",
+        "C": "To declare a new variable",
+        "D": "To define a new function",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'target' attribute in HTML anchor tags?",
+        "A": "To specify the URL of the linked page",
+        "B": "To define the size of the link",
+        "C": "To open the link in a new window or tab",
+        "D": "To style the appearance of the link",
+        "answer": "C"
+      },
+      {
+        "question": "Which CSS property is used to control the spacing between lines of text?",
+        "A": "line-spacing",
+        "B": "text-spacing",
+        "C": "line-height",
+        "D": "font-spacing",
+        "answer": "C"
+      },
+      {
+        "question": "In React, what is the purpose of the 'props' object?",
+        "A": "To manage component state",
+        "B": "To pass data from a parent component to a child component",
+        "C": "To define component methods",
+        "D": "To handle user input events",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'innerHTML' property in JavaScript?",
+        "A": "To retrieve the content of a specific HTML element",
+        "B": "To modify the content of a specific HTML element",
+        "C": "To define the style of a specific HTML element",
+        "D": "To hide a specific HTML element",
+        "answer": "B"
+      },
+      {
+        "question": "Which CSS unit is relative to the font-size of the element?",
+        "A": "px",
+        "B": "em",
+        "C": "rem",
+        "D": "vw",
+        "answer": "B"
+      },
+      {
+        "question": "In JavaScript, how do you declare a variable?",
+        "A": "using the 'var' keyword",
+        "B": "using the 'let' keyword",
+        "C": "using the 'const' keyword",
+        "D": "All of the above",
+        "answer": "D"
+      },
+      {
+        "question": "What is the purpose of the 'src' attribute in HTML img tags?",
+        "A": "To specify the size of the image",
+        "B": "To define the image source URL",
+        "C": "To add a caption to the image",
+        "D": "To apply styling to the image",
+        "answer": "B"
+      },
+      {
+        "question": "Which HTML tag is used to define a hyperlink with no visible text?",
+        "A": "<a>",
+        "B": "<link>",
+        "C": "<href>",
+        "D": "<url>",
+        "answer": "A"
+      },
+      {
+        "question": "What does CSS specificity refer to?",
+        "A": "The order in which styles are applied to elements",
+        "B": "The weight of a font",
+        "C": "The importance of a style rule",
+        "D": "The hierarchy of selectors in determining which styles are applied",
+        "answer": "D"
+      },
+      {
+        "question": "In React, what is the purpose of the 'state' object?",
+        "A": "To store component data that may change over time",
+        "B": "To manage the lifecycle of a component",
+        "C": "To handle user input events",
+        "D": "To define component methods",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'type' attribute in HTML input tags?",
+        "A": "To specify the input field's data type",
+        "B": "To define the input field's size",
+        "C": "To set the input field's placeholder text",
+        "D": "To determine the type of input control",
+        "answer": "D"
+      },
+      {
+        "question": "Which JavaScript method is used to remove the last element from an array and return that element?",
+        "A": "pop()",
+        "B": "shift()",
+        "C": "splice()",
+        "D": "slice()",
+        "answer": "A"
+      },
+      {
+        "question": "In HTML, what is the purpose of the 'title' attribute?",
+        "A": "To define the title of the webpage",
+        "B": "To specify additional information about an element",
+        "C": "To provide a tooltip text for an element",
+        "D": "To set the font style of an element",
+        "answer": "C"
+      },
+      {
+        "question": "What is the purpose of the 'className' attribute in React?",
+        "A": "To define a unique identifier for a component",
+        "B": "To specify the CSS class(es) to apply to a component",
+        "C": "To determine the rendering order of components",
+        "D": "To handle user input events",
+        "answer": "B"
+      },
+      {
+        "question": "Which CSS property is used to control the size of an element's border?",
+        "A": "border-size",
+        "B": "border-width",
+        "C": "border-style",
+        "D": "border-length",
+        "answer": "B"
+      },
+      {
+        "question": "In JavaScript, what is an array?",
+        "A": "A data type used to store multiple values in a single variable",
+        "B": "A method for iterating over objects",
+        "C": "A conditional statement",
+        "D": "A type of loop",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'target' property in JavaScript events?",
+        "A": "To specify the event target",
+        "B": "To determine the event type",
+        "C": "To define the event handler function",
+        "D": "To identify the element that triggered the event",
+        "answer": "D"
+      },
+      {
+        "question": "Which HTML tag is used to define a paragraph?",
+        "A": "<p>",
+        "B": "<paragraph>",
+        "C": "<para>",
+        "D": "<pg>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'for' attribute in HTML label tags?",
+        "A": "To specify the size of the label",
+        "B": "To define the label's text content",
+        "C": "To associate the label with a form control",
+        "D": "To set the font style of the label",
+        "answer": "C"
+      },
+      {
+        "question": "In React, what is the purpose of the 'key' prop?",
+        "A": "To define a unique identifier for a list of elements",
+        "B": "To specify the initial state of a component",
+        "C": "To handle user input events",
+        "D": "To determine the rendering order of components",
+        "answer": "A"
+      },
+      {
+        "question": "Which CSS property is used to control the spacing between letters in a text?",
+        "A": "word-spacing",
+        "B": "letter-spacing",
+        "C": "text-spacing",
+        "D": "line-spacing",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'role' attribute in HTML?",
+        "A": "To define the role of an HTML element for accessibility purposes",
+        "B": "To specify the alignment of an HTML element",
+        "C": "To set the size of an HTML element",
+        "D": "To determine the visibility of an HTML element",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'typeof' operator?",
+        "A": "To determine the data type of a variable or expression",
+        "B": "To compare two values",
+        "C": "To define a variable",
+        "D": "To perform arithmetic operations",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'aria-label' attribute in HTML?",
+        "A": "To specify the alignment of an HTML element",
+        "B": "To define the role of an HTML element for accessibility purposes",
+        "C": "To set the size of an HTML element",
+        "D": "To determine the visibility of an HTML element",
+        "answer": "B"
+      },
+      {
+        "question": "Which CSS property is used to control the layout of elements in a grid?",
+        "A": "grid-template",
+        "B": "grid-area",
+        "C": "grid-layout",
+        "D": "display",
+        "answer": "D"
+      },
+      {
+        "question": "In JavaScript, what does the 'NaN' value represent?",
+        "A": "Negative value",
+        "B": "Not a Number",
+        "C": "Null value",
+        "D": "Non-alphanumeric value",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'target' attribute in HTML form tags?",
+        "A": "To define the form's action",
+        "B": "To specify where to display the response after submitting the form",
+        "C": "To set the form's method",
+        "D": "To determine the form's visibility",
+        "answer": "B"
+      },
+      {
+        "question": "Which HTML tag is used to define a line break?",
+        "A": "<br>",
+        "B": "<break>",
+        "C": "<lb>",
+        "D": "<line>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'aria-hidden' attribute in HTML?",
+        "A": "To specify the visibility of an HTML element",
+        "B": "To hide an HTML element from assistive technologies",
+        "C": "To define the role of an HTML element for accessibility purposes",
+        "D": "To determine the alignment of an HTML element",
+        "answer": "B"
+      },
+      {
+        "question": "In React, what is the purpose of the 'ref' attribute?",
+        "A": "To reference a DOM element or class component",
+        "B": "To define component methods",
+        "C": "To specify component props",
+        "D": "To handle user input events",
+        "answer": "A"
+      },
+      {
+        "question": "Which CSS property is used to control the background color of an element?",
+        "A": "background-color",
+        "B": "color",
+        "C": "background",
+        "D": "bgcolor",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'disabled' attribute in HTML form elements?",
+        "A": "To specify the input field's data type",
+        "B": "To disable user interaction with the form element",
+        "C": "To set the form's method",
+        "D": "To determine the visibility of the form element",
+        "answer": "B"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'isNaN' function?",
+        "A": "To check if a value is not a number",
+        "B": "To calculate the square root of a number",
+        "C": "To convert a string to a number",
+        "D": "To check if a value is a number",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'autocomplete' attribute in HTML input fields?",
+        "A": "To enable browser autofill for the input field",
+        "B": "To specify the input field's data type",
+        "C": "To validate user input",
+        "D": "To define the input field's placeholder text",
+        "answer": "A"
+      },
+      {
+        "question": "Which CSS property is used to control the font size of text?",
+        "A": "font-size",
+        "B": "text-size",
+        "C": "font-style",
+        "D": "text-style",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'forEach' method?",
+        "A": "To execute a function once for each array element",
+        "B": "To add a new element to an array",
+        "C": "To check if a value is included in an array",
+        "D": "To remove elements from an array",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'placeholder' attribute in HTML input fields?",
+        "A": "To specify the input field's data type",
+        "B": "To define the input field's placeholder text",
+        "C": "To set the input field's default value",
+        "D": "To disable user interaction with the input field",
+        "answer": "B"
+      },
+      {
+        "question": "Which HTML tag is used to define a hyperlink to an email address?",
+        "A": "<a>",
+        "B": "<link>",
+        "C": "<email>",
+        "D": "<mailto>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'aria-describedby' attribute in HTML?",
+        "A": "To define the role of an HTML element for accessibility purposes",
+        "B": "To specify additional information about an HTML element",
+        "C": "To hide an HTML element from assistive technologies",
+        "D": "To associate an HTML element with its description for screen readers",
+        "answer": "D"
+      },
+      {
+        "question": "In React, what is the purpose of the 'componentDidMount' lifecycle method?",
+        "A": "To update the component's state",
+        "B": "To handle user input events",
+        "C": "To perform actions after the component has mounted",
+        "D": "To define component methods",
+        "answer": "C"
+      },
+      {
+        "question": "Which CSS property is used to control the thickness of an element's border?",
+        "A": "border-width",
+        "B": "border-thickness",
+        "C": "border-size",
+        "D": "border-style",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'required' attribute in HTML form fields?",
+        "A": "To specify the input field's data type",
+        "B": "To define the input field's default value",
+        "C": "To indicate that the input field must be filled out before submitting the form",
+        "D": "To disable user interaction with the input field",
+        "answer": "C"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'toFixed' method?",
+        "A": "To round a number to a specified number of decimal places",
+        "B": "To convert a number to a fixed-point notation string",
+        "C": "To convert a string to a number",
+        "D": "To check if a value is a number",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'min' and 'max' attributes in HTML input fields?",
+        "A": "To define the minimum and maximum value for the input field",
+        "B": "To set the input field's placeholder text",
+        "C": "To specify the input field's data type",
+        "D": "To determine the visibility of the input field",
+        "answer": "A"
+      },
+      {
+        "question": "Which CSS property is used to control the alignment of text within an element?",
+        "A": "text-align",
+        "B": "align-text",
+        "C": "text-style",
+        "D": "alignment",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'parseFloat' function?",
+        "A": "To parse a string and return a floating-point number",
+        "B": "To parse a string and return an integer",
+        "C": "To convert a number to a string",
+        "D": "To check if a value is a floating-point number",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'autofocus' attribute in HTML input fields?",
+        "A": "To specify the input field's data type",
+        "B": "To set the input field's default value",
+        "C": "To automatically focus on the input field when the page loads",
+        "D": "To disable user interaction with the input field",
+        "answer": "C"
+      },
+      {
+        "question": "Which HTML tag is used to define a list item within an ordered or unordered list?",
+        "A": "<li>",
+        "B": "<list>",
+        "C": "<ul>",
+        "D": "<ol>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'aria-labelledby' attribute in HTML?",
+        "A": "To define the role of an HTML element for accessibility purposes",
+        "B": "To specify additional information about an HTML element",
+        "C": "To associate an HTML element with its label for screen readers",
+        "D": "To hide an HTML element from assistive technologies",
+        "answer": "C"
+      },
+      {
+        "question": "In React, what is the purpose of the 'setState' method?",
+        "A": "To define the initial state of a component",
+        "B": "To update the state of a component",
+        "C": "To handle user input events",
+        "D": "To render a component",
+        "answer": "B"
+      },
+      {
+        "question": "Which CSS property is used to control the visibility of an element?",
+        "A": "visibility",
+        "B": "display",
+        "C": "visible",
+        "D": "show",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'autocomplete' attribute in HTML form fields?",
+        "A": "To enable browser autofill for the form field",
+        "B": "To specify the input field's data type",
+        "C": "To validate user input",
+        "D": "To determine the visibility of the form field",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'toUpperCase' method?",
+        "A": "To convert a string to lowercase",
+        "B": "To convert a string to uppercase",
+        "C": "To capitalize the first letter of a string",
+        "D": "To check if a string contains uppercase letters",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'placeholder' attribute in HTML textarea elements?",
+        "A": "To specify the input field's data type",
+        "B": "To define the textarea's placeholder text",
+        "C": "To set the textarea's default value",
+        "D": "To disable user interaction with the textarea",
+        "answer": "B"
+      },
+      {
+        "question": "Which CSS property is used to control the appearance of text when it overflows its containing element?",
+        "A": "text-overflow",
+        "B": "overflow",
+        "C": "text-wrap",
+        "D": "wrap",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'parseInt' function?",
+        "A": "To parse a string and return an integer",
+        "B": "To parse a string and return a floating-point number",
+        "C": "To convert a number to a string",
+        "D": "To check if a value is an integer",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'required' attribute in HTML textarea elements?",
+        "A": "To specify the textarea's data type",
+        "B": "To define the textarea's default value",
+        "C": "To indicate that the textarea must be filled out before submitting the form",
+        "D": "To disable user interaction with the textarea",
+        "answer": "C"
+      },
+      {
+        "question": "Which HTML tag is used to create an image element?",
+        "A": "<img>",
+        "B": "<image>",
+        "C": "<picture>",
+        "D": "<imgsrc>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'aria-haspopup' attribute in HTML?",
+        "A": "To define the role of an HTML element for accessibility purposes",
+        "B": "To specify additional information about an HTML element",
+        "C": "To indicate that an HTML element has a popup menu or dialog",
+        "D": "To associate an HTML element with its label for screen readers",
+        "answer": "C"
+      },
+      {
+        "question": "In React, what is the purpose of the 'componentWillUnmount' lifecycle method?",
+        "A": "To update the component's state",
+        "B": "To handle user input events",
+        "C": "To perform cleanup actions before the component is removed from the DOM",
+        "D": "To define component methods",
+        "answer": "C"
+      },
+      {
+        "question": "Which CSS property is used to control the visibility of an element without affecting the layout of surrounding elements?",
+        "A": "visibility",
+        "B": "display",
+        "C": "opacity",
+        "D": "hidden",
+        "answer": "C"
+      },
+      {
+        "question": "What is the purpose of the 'autofocus' attribute in HTML button elements?",
+        "A": "To specify the button's type",
+        "B": "To automatically focus on the button when the page loads",
+        "C": "To disable user interaction with the button",
+        "D": "To define the button's label",
+        "answer": "B"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'concat' method?",
+        "A": "To concatenate two or more arrays",
+        "B": "To split a string into an array of substrings",
+        "C": "To reverse the elements of an array",
+        "D": "To check if an array contains a specific element",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'maxlength' attribute in HTML input fields?",
+        "A": "To specify the maximum value for the input field",
+        "B": "To set the input field's default value",
+        "C": "To define the maximum number of characters allowed in the input field",
+        "D": "To determine the visibility of the input field",
+        "answer": "C"
+      },
+      {
+        "question": "Which CSS property is used to control the spacing between elements?",
+        "A": "margin",
+        "B": "padding",
+        "C": "spacing",
+        "D": "gap",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'slice' method?",
+        "A": "To remove the last element from an array and return it",
+        "B": "To extract a section of an array and return a new array",
+        "C": "To add new elements to the beginning of an array",
+        "D": "To check if an array contains a specific element",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'readonly' attribute in HTML input fields?",
+        "A": "To specify the input field's data type",
+        "B": "To define the input field's placeholder text",
+        "C": "To indicate that the input field cannot be modified by the user",
+        "D": "To disable user interaction with the input field",
+        "answer": "C"
+      },
+      {
+        "question": "Which HTML tag is used to create a hyperlink to an external webpage?",
+        "A": "<a>",
+        "B": "<link>",
+        "C": "<href>",
+        "D": "<url>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'aria-hidden' attribute in HTML?",
+        "A": "To define the role of an HTML element for accessibility purposes",
+        "B": "To hide an HTML element from assistive technologies",
+        "C": "To specify additional information about an HTML element",
+        "D": "To associate an HTML element with its label for screen readers",
+        "answer": "B"
+      },
+      {
+        "question": "In React, what is the purpose of the 'shouldComponentUpdate' lifecycle method?",
+        "A": "To update the component's state",
+        "B": "To determine if a component should re-render after state or props change",
+        "C": "To perform actions after the component has mounted",
+        "D": "To define component methods",
+        "answer": "B"
+      },
+      {
+        "question": "Which CSS property is used to control the layout of elements in a grid?",
+        "A": "grid-template",
+        "B": "grid-area",
+        "C": "grid-layout",
+        "D": "display",
+        "answer": "D"
+      },
+      {
+        "question": "What is the purpose of the 'selected' attribute in HTML option elements?",
+        "A": "To specify the default selected option in a dropdown list",
+        "B": "To define the input field's default value",
+        "C": "To indicate that an option is currently selected",
+        "D": "To disable user interaction with the option",
+        "answer": "C"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'find' method?",
+        "A": "To search for a specific element in an array and return its index",
+        "B": "To check if all elements in an array pass a test specified by a function",
+        "C": "To return the value of the first element in an array that satisfies the provided testing function",
+        "D": "To remove the first element from an array and return it",
+        "answer": "C"
+      },
+      {
+        "question": "What is the purpose of the 'spellcheck' attribute in HTML input fields?",
+        "A": "To enable or disable spell checking for the input field",
+        "B": "To specify the input field's data type",
+        "C": "To define the input field's default value",
+        "D": "To determine the visibility of the input field",
+        "answer": "A"
+      },
+      {
+        "question": "Which CSS property is used to control the appearance of an element's border?",
+        "A": "border-style",
+        "B": "border-color",
+        "C": "border-width",
+        "D": "border",
+        "answer": "D"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'filter' method?",
+        "A": "To search for a specific element in an array and return its index",
+        "B": "To remove elements from an array that do not pass a specified condition",
+        "C": "To return the value of the first element in an array that satisfies the provided testing function",
+        "D": "To concatenate two or more arrays",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'form' attribute in HTML input fields?",
+        "A": "To specify the input field's data type",
+        "B": "To define the input field's default value",
+        "C": "To associate the input field with a form",
+        "D": "To disable user interaction with the input field",
+        "answer": "C"
+      },
+      {
+        "question": "Which HTML tag is used to create a numbered list?",
+        "A": "<ol>",
+        "B": "<ul>",
+        "C": "<li>",
+        "D": "<list>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'aria-label' attribute in HTML?",
+        "A": "To define the role of an HTML element for accessibility purposes",
+        "B": "To specify additional information about an HTML element",
+        "C": "To hide an HTML element from assistive technologies",
+        "D": "To provide a label for an HTML element for screen readers",
+        "answer": "D"
+      },
+      {
+        "question": "In React, what is the purpose of the 'componentWillReceiveProps' lifecycle method?",
+        "A": "To update the component's state",
+        "B": "To handle user input events",
+        "C": "To perform actions before the component receives new props",
+        "D": "To define component methods",
+        "answer": "C"
+      },
+      {
+        "question": "Which CSS property is used to control the spacing between lines of text?",
+        "A": "line-spacing",
+        "B": "text-spacing",
+        "C": "line-height",
+        "D": "font-spacing",
+        "answer": "C"
+      },
+      {
+        "question": "What is the purpose of the 'disabled' attribute in HTML button elements?",
+        "A": "To specify the button's type",
+        "B": "To define the button's label",
+        "C": "To indicate that the button cannot be clicked or activated",
+        "D": "To determine the visibility of the button",
+        "answer": "C"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'reduce' method?",
+        "A": "To search for a specific element in an array and return its index",
+        "B": "To apply a function against an accumulator and each element in the array to reduce it to a single value",
+        "C": "To return the value of the first element in an array that satisfies the provided testing function",
+        "D": "To remove elements from an array that do not pass a specified condition",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'maxlength' attribute in HTML textarea elements?",
+        "A": "To specify the maximum value for the textarea",
+        "B": "To set the textarea's default value",
+        "C": "To define the maximum number of characters allowed in the textarea",
+        "D": "To determine the visibility of the textarea",
+        "answer": "C"
+      },
+      {
+        "question": "Which CSS property is used to control the appearance of text when it overflows its containing element?",
+        "A": "text-overflow",
+        "B": "overflow",
+        "C": "text-wrap",
+        "D": "wrap",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'parseFloat' function?",
+        "A": "To parse a string and return an integer",
+        "B": "To parse a string and return a floating-point number",
+        "C": "To convert a number to a string",
+        "D": "To check if a value is a floating-point number",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'required' attribute in HTML textarea elements?",
+        "A": "To specify the textarea's data type",
+        "B": "To define the textarea's default value",
+        "C": "To indicate that the textarea must be filled out before submitting the form",
+        "D": "To disable user interaction with the textarea",
+        "answer": "C"
+      },
+      {
+        "question": "Which HTML tag is used to create an image element?",
+        "A": "<img>",
+        "B": "<image>",
+        "C": "<picture>",
+        "D": "<imgsrc>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'aria-hidden' attribute in HTML?",
+        "A": "To define the role of an HTML element for accessibility purposes",
+        "B": "To hide an HTML element from assistive technologies",
+        "C": "To specify additional information about an HTML element",
+        "D": "To associate an HTML element with its label for screen readers",
+        "answer": "B"
+      },
+      {
+        "question": "In React, what is the purpose of the 'componentWillUnmount' lifecycle method?",
+        "A": "To update the component's state",
+        "B": "To handle user input events",
+        "C": "To perform cleanup actions before the component is removed from the DOM",
+        "D": "To define component methods",
+        "answer": "C"
+      },
+      {
+        "question": "Which CSS property is used to control the thickness of an element's border?",
+        "A": "border-width",
+        "B": "border-thickness",
+        "C": "border-size",
+        "D": "border-style",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'required' attribute in HTML form fields?",
+        "A": "To specify the input field's data type",
+        "B": "To define the input field's default value",
+        "C": "To indicate that the input field must be filled out before submitting the form",
+        "D": "To disable user interaction with the input field",
+        "answer": "C"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'toFixed' method?",
+        "A": "To round a number to a specified number of decimal places",
+        "B": "To convert a number to a fixed-point notation string",
+        "C": "To convert a string to a number",
+        "D": "To check if a value is a number",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'autocomplete' attribute in HTML input fields?",
+        "A": "To enable browser autofill for the input field",
+        "B": "To specify the input field's data type",
+        "C": "To validate user input",
+        "D": "To determine the visibility of the input field",
+        "answer": "A"
+      },
+      {
+        "question": "Which CSS property is used to control the font size of text?",
+        "A": "font-size",
+        "B": "text-size",
+        "C": "font-style",
+        "D": "text-style",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is an array?",
+        "A": "A data type used to store multiple values in a single variable",
+        "B": "A method for iterating over objects",
+        "C": "A conditional statement",
+        "D": "A type of loop",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'target' property in JavaScript events?",
+        "A": "To specify the event target",
+        "B": "To determine the event type",
+        "C": "To define the event handler function",
+        "D": "To identify the element that triggered the event",
+        "answer": "D"
+      },
+      {
+        "question": "Which HTML tag is used to define a paragraph?",
+        "A": "<p>",
+        "B": "<paragraph>",
+        "C": "<para>",
+        "D": "<pg>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'for' attribute in HTML label tags?",
+        "A": "To specify the size of the label",
+        "B": "To define the label's text content",
+        "C": "To associate the label with a form control",
+        "D": "To set the font style of the label",
+        "answer": "C"
+      },
+      {
+        "question": "In React, what is the purpose of the 'key' prop?",
+        "A": "To define a unique identifier for a list of elements",
+        "B": "To specify the initial state of a component",
+        "C": "To handle user input events",
+        "D": "To determine the rendering order of components",
+        "answer": "A"
+      },
+      {
+        "question": "Which CSS property is used to control the spacing between letters in a text?",
+        "A": "word-spacing",
+        "B": "letter-spacing",
+        "C": "text-spacing",
+        "D": "line-spacing",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'role' attribute in HTML?",
+        "A": "To define the role of an HTML element for accessibility purposes",
+        "B": "To specify the alignment of an HTML element",
+        "C": "To set the size of an HTML element",
+        "D": "To determine the visibility of an HTML element",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'typeof' operator?",
+        "A": "To determine the data type of a variable or expression",
+        "B": "To compare two values",
+        "C": "To define a variable",
+        "D": "To perform arithmetic operations",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'autocomplete' attribute in HTML input fields?",
+        "A": "To enable browser autofill for the input field",
+        "B": "To specify the input field's data type",
+        "C": "To validate user input",
+        "D": "To determine the visibility of the input field",
+        "answer": "A"
+      },
+      {
+        "question": "Which CSS property is used to control the font size of text?",
+        "A": "font-size",
+        "B": "text-size",
+        "C": "font-style",
+        "D": "text-style",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is an array?",
+        "A": "A data type used to store multiple values in a single variable",
+        "B": "A method for iterating over objects",
+        "C": "A conditional statement",
+        "D": "A type of loop",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'target' property in JavaScript events?",
+        "A": "To specify the event target",
+        "B": "To determine the event type",
+        "C": "To define the event handler function",
+        "D": "To identify the element that triggered the event",
+        "answer": "D"
+      },
+      {
+        "question": "Which HTML tag is used to define a paragraph?",
+        "A": "<p>",
+        "B": "<paragraph>",
+        "C": "<para>",
+        "D": "<pg>",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of the 'for' attribute in HTML label tags?",
+        "A": "To specify the size of the label",
+        "B": "To define the label's text content",
+        "C": "To associate the label with a form control",
+        "D": "To set the font style of the label",
+        "answer": "C"
+      },
+      {
+        "question": "In React, what is the purpose of the 'key' prop?",
+        "A": "To define a unique identifier for a list of elements",
+        "B": "To specify the initial state of a component",
+        "C": "To handle user input events",
+        "D": "To determine the rendering order of components",
+        "answer": "A"
+      },
+      {
+        "question": "Which CSS property is used to control the spacing between letters in a text?",
+        "A": "word-spacing",
+        "B": "letter-spacing",
+        "C": "text-spacing",
+        "D": "line-spacing",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of the 'role' attribute in HTML?",
+        "A": "To define the role of an HTML element for accessibility purposes",
+        "B": "To specify the alignment of an HTML element",
+        "C": "To set the size of an HTML element",
+        "D": "To determine the visibility of an HTML element",
+        "answer": "A"
+      },
+      {
+        "question": "In JavaScript, what is the purpose of the 'typeof' operator?",
+        "A": "To determine the data type of a variable or expression",
+        "B": "To compare two values",
+        "C": "To define a variable",
+        "D": "To perform arithmetic operations",
+        "answer": "A"
+      }
+]
