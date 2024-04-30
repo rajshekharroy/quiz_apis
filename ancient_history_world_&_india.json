@@ -1,0 +1,1488 @@
+[
+  {
+    "question": "What is the significance of the Code of Hammurabi?",
+    "A": "It is one of the earliest and most complete written legal codes.",
+    "B": "It served as a religious text for ancient Mesopotamian societies.",
+    "C": "It established principles of democracy in ancient Babylon.",
+    "D": "It provided guidelines for architectural design in ancient Egypt.",
+    "answer": "A"
+  },
+  {
+    "question": "Who was Hatshepsut and what was her significance in ancient Egyptian history?",
+    "A": "She was a prominent military leader who expanded the Egyptian empire.",
+    "B": "She was the first female pharaoh known to history, ruling as a regent for her stepson.",
+    "C": "She was a famous Egyptian poet whose works influenced later literature.",
+    "D": "She was the chief architect responsible for building the Great Pyramid of Giza.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the importance of the Indus Valley Civilization?",
+    "A": "It developed the first writing system known in South Asia.",
+    "B": "It established the first democratic government in ancient India.",
+    "C": "It pioneered techniques for bronze metallurgy.",
+    "D": "It built the largest empire in ancient Indian history.",
+    "answer": "A"
+  },
+  {
+    "question": "Who were the Minoans and what is their legacy in ancient history?",
+    "A": "They were skilled metalworkers known for their intricate jewelry.",
+    "B": "They were seafaring people who established trade networks across the Mediterranean.",
+    "C": "They were the first civilization to domesticate horses for agricultural purposes.",
+    "D": "They were renowned for their monumental architecture, including ziggurats.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the primary contribution of the Sumerians to ancient civilization?",
+    "A": "They developed the first known writing system, cuneiform.",
+    "B": "They constructed the largest pyramids in the ancient world.",
+    "C": "They were the first to establish a standardized system of weights and measures.",
+    "D": "They invented the wheel, revolutionizing transportation.",
+    "answer": "A"
+  },
+  {
+    "question": "Who was Cyrus the Great and what was his significance in ancient Persia?",
+    "A": "He was a renowned philosopher who founded the School of Athens.",
+    "B": "He was the first emperor to unify the Persian Empire and establish a code of laws.",
+    "C": "He was a prolific architect responsible for building the city of Persepolis.",
+    "D": "He was a military strategist who defeated Alexander the Great in battle.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the main religious belief system of ancient Greece?",
+    "A": "Monotheism, worshipping a single deity.",
+    "B": "Polytheism, believing in multiple gods and goddesses.",
+    "C": "Atheism, rejecting the existence of any gods.",
+    "D": "Pantheism, seeing the divine in all aspects of nature.",
+    "answer": "B"
+  },
+
+  {
+    "question": "Who were the Phoenicians and what was their significance in ancient maritime history?",
+    "A": "They were skilled architects known for building the Parthenon in Athens.",
+    "B": "They were seafaring traders who established colonies across the Mediterranean and pioneered the alphabet.",
+    "C": "They were nomadic warriors who invaded ancient Egypt and established dynasties.",
+    "D": "They were astronomers who accurately mapped the stars and planets.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the impact of Alexander the Great's conquests on ancient history?",
+    "A": "They led to the spread of Greek culture, known as Hellenism, throughout the ancient world.",
+    "B": "They resulted in the establishment of the first global empire, unifying Europe, Asia, and Africa.",
+    "C": "They marked the beginning of the decline of the Roman Republic and the rise of the Roman Empire.",
+    "D": "They triggered the collapse of the Persian Empire and the emergence of the Achaemenid dynasty.",
+    "answer": "A"
+  },
+  {
+    "question": "What was the significance of the Oracle at Delphi in ancient Greece?",
+    "A": "It was a center for athletic competitions during the Olympic Games.",
+    "B": "It served as a marketplace for trading goods from across the Mediterranean.",
+    "C": "It was a religious sanctuary where people sought guidance from the gods through a priestess.",
+    "D": "It was a military outpost guarding the Greek borders from invasion.",
+    "answer": "C"
+  },
+  {
+    "question": "Who were the Etruscans and what is their legacy in ancient Italy?",
+    "A": "They were skilled engineers known for their aqueducts and roads.",
+    "B": "They were nomadic tribes who invaded Italy from the north.",
+    "C": "They were seafaring traders who dominated the Mediterranean commerce.",
+    "D": "They were a civilization that heavily influenced Roman art, architecture, and religion.",
+    "answer": "D"
+  },
+  {
+    "question": "What was the significance of the Hanging Gardens of Babylon?",
+    "A": "They were the first astronomical observatories built by ancient astronomers.",
+    "B": "They were massive fortifications protecting the city of Babylon from invaders.",
+    "C": "They were a series of terraced gardens built by King Nebuchadnezzar II for his wife.",
+    "D": "They were temples dedicated to the worship of Marduk, the chief god of Babylon.",
+    "answer": "C"
+  },
+  {
+    "question": "What was the significance of the Qin Dynasty in ancient China?",
+    "A": "It was a period of great artistic flourishing, producing masterpieces of Chinese literature and poetry.",
+    "B": "It was known for its military prowess and the unification of China under the first emperor, Qin Shi Huang.",
+    "C": "It introduced Buddhism to China and built the first Buddhist temples.",
+    "D": "It established a democratic system of government, allowing citizens to elect their leaders.",
+    "answer": "B"
+  },
+  {
+    "question": "Who was Ashoka the Great and what was his contribution to ancient Indian history?",
+    "A": "He was a philosopher who founded the Cynic school of thought in ancient Greece.",
+    "B": "He was a warrior king who expanded the Maurya Empire and promoted Buddhism throughout his reign.",
+    "C": "He was a mathematician who formulated the concept of zero and advanced trigonometry.",
+    "D": "He was a playwright who wrote some of the earliest surviving Greek tragedies.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the significance of the Silk Road in ancient trade and cultural exchange?",
+    "A": "It facilitated the exchange of goods, ideas, and cultures between the Mediterranean region and East Asia.",
+    "B": "It was a network of military alliances that ensured peace and stability along ancient trade routes.",
+    "C": "It was a series of defensive fortifications built to protect trade caravans from bandits.",
+    "D": "It was a system of underground tunnels used by merchants to smuggle valuable goods across borders.",
+    "answer": "A"
+  },
+  {
+    "question": "Who was Confucius and what was his philosophical contribution to ancient China?",
+    "A": "He was a military strategist who wrote 'The Art of War,' a treatise on warfare tactics.",
+    "B": "He was a philosopher who emphasized ethical and moral values, advocating for social harmony and filial piety.",
+    "C": "He was a mathematician who developed the earliest known algorithms for solving quadratic equations.",
+    "D": "He was a physician who pioneered acupuncture and herbal medicine.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the role of the Senate in ancient Rome?",
+    "A": "It was a religious institution responsible for overseeing the Roman pantheon of gods.",
+    "B": "It was a legislative body composed of patrician men who advised Roman consuls and magistrates.",
+    "C": "It was a military council tasked with planning military campaigns and strategy.",
+    "D": "It was a cultural organization dedicated to preserving Roman literature and art.",
+    "answer": "B"
+  },
+
+  {
+    "question": "Who were the Phoenicians and what was their significance in ancient maritime history?",
+    "A": "They were skilled architects known for building the Parthenon in Athens.",
+    "B": "They were seafaring traders who established colonies across the Mediterranean and pioneered the alphabet.",
+    "C": "They were nomadic warriors who invaded ancient Egypt and established dynasties.",
+    "D": "They were astronomers who accurately mapped the stars and planets.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the impact of Alexander the Great's conquests on ancient history?",
+    "A": "They led to the spread of Greek culture, known as Hellenism, throughout the ancient world.",
+    "B": "They resulted in the establishment of the first global empire, unifying Europe, Asia, and Africa.",
+    "C": "They marked the beginning of the decline of the Roman Republic and the rise of the Roman Empire.",
+    "D": "They triggered the collapse of the Persian Empire and the emergence of the Achaemenid dynasty.",
+    "answer": "A"
+  },
+  {
+    "question": "Who were the Phoenicians and what was their significance in ancient maritime history?",
+    "A": "They were skilled architects known for building the Parthenon in Athens.",
+    "B": "They were seafaring traders who established colonies across the Mediterranean and pioneered the alphabet.",
+    "C": "They were nomadic warriors who invaded ancient Egypt and established dynasties.",
+    "D": "They were astronomers who accurately mapped the stars and planets.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the impact of Alexander the Great's conquests on ancient history?",
+    "A": "They led to the spread of Greek culture, known as Hellenism, throughout the ancient world.",
+    "B": "They resulted in the establishment of the first global empire, unifying Europe, Asia, and Africa.",
+    "C": "They marked the beginning of the decline of the Roman Republic and the rise of the Roman Empire.",
+    "D": "They triggered the collapse of the Persian Empire and the emergence of the Achaemenid dynasty.",
+    "answer": "A"
+  },
+  {
+    "question": "Who were the Phoenicians and what was their significance in ancient maritime history?",
+    "A": "They were skilled architects known for building the Parthenon in Athens.",
+    "B": "They were seafaring traders who established colonies across the Mediterranean and pioneered the alphabet.",
+    "C": "They were nomadic warriors who invaded ancient Egypt and established dynasties.",
+    "D": "They were astronomers who accurately mapped the stars and planets.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the impact of Alexander the Great's conquests on ancient history?",
+    "A": "They led to the spread of Greek culture, known as Hellenism, throughout the ancient world.",
+    "B": "They resulted in the establishment of the first global empire, unifying Europe, Asia, and Africa.",
+    "C": "They marked the beginning of the decline of the Roman Republic and the rise of the Roman Empire.",
+    "D": "They triggered the collapse of the Persian Empire and the emergence of the Achaemenid dynasty.",
+    "answer": "A"
+  },
+  {
+    "question": "Who were the Phoenicians and what was their significance in ancient maritime history?",
+    "A": "They were skilled architects known for building the Parthenon in Athens.",
+    "B": "They were seafaring traders who established colonies across the Mediterranean and pioneered the alphabet.",
+    "C": "They were nomadic warriors who invaded ancient Egypt and established dynasties.",
+    "D": "They were astronomers who accurately mapped the stars and planets.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the role of the Vestal Virgins in ancient Rome?",
+    "A": "They were priestesses responsible for maintaining the sacred fire of Vesta, the goddess of the hearth.",
+    "B": "They were military commanders who led Roman legions into battle.",
+    "C": "They were scholars who preserved ancient texts and manuscripts in the Library of Alexandria.",
+    "D": "They were artisans who created intricate mosaics and frescoes in Roman villas.",
+
+    "answer": "A"
+  },
+  {
+    "question": "What was the impact of Alexander the Great's conquests on ancient history?",
+    "A": "They led to the spread of Greek culture, known as Hellenism, throughout the ancient world.",
+    "B": "They resulted in the establishment of the first global empire, unifying Europe, Asia, and Africa.",
+    "C": "They marked the beginning of the decline of the Roman Republic and the rise of the Roman Empire.",
+    "D": "They triggered the collapse of the Persian Empire and the emergence of the Achaemenid dynasty.",
+    "answer": "A"
+  },
+  {
+    "question": "Who were the Phoenicians and what was their significance in ancient maritime history?",
+    "A": "They were skilled architects known for building the Parthenon in Athens.",
+    "B": "They were seafaring traders who established colonies across the Mediterranean and pioneered the alphabet.",
+    "C": "They were nomadic warriors who invaded ancient Egypt and established dynasties.",
+    "D": "They were astronomers who accurately mapped the stars and planets.",
+    "answer": "B"
+  },
+  {
+    "question": "What was the importance of the Persian Wars in ancient Greek history?",
+    "A": "They marked the beginning of Greek colonization of Asia Minor.",
+    "B": "They resulted in the defeat of the Greek city-states by the Persian Empire.",
+    "C": "They led to the establishment of the Delian League, an alliance of Greek city-states against Persian aggression.",
+    "D": "They sparked the rise of Alexander the Great and the conquest of the Persian Empire.",
+    "answer": "C"
+  },
+  {
+    "question": "Who was Pericles and what was his influence on ancient Athens?",
+    "A": "He was a renowned playwright who wrote tragedies such as 'Oedipus Rex' and 'Antigone.'",
+    "B": "He was a military leader who defeated the Persians at the Battle of Marathon.",
+    "C": "He was a statesman who promoted democracy and oversaw the construction of the Parthenon.",
+    "D": "He was a philosopher who founded the Academy in Athens, the first institution of higher learning in the Western world.",
+    "answer": "C"
+  },
+  {
+    "question": "What was the significance of the Twelve Tables in ancient Roman law?",
+    "A": "They were the first written legal code in Roman history, providing rights and procedures for all citizens.",
+    "B": "They were a series of treaties that established alliances between Rome and neighboring kingdoms.",
+    "C": "They were religious texts outlining the rituals and ceremonies of the Roman pantheon.",
+    "D": "They were architectural plans for building the Colosseum and other iconic structures in Rome.",
+    "answer": "A"
+  },
+  {
+    "question": "What was the role of the Vestal Virgins in ancient Rome?",
+    "A": "They were priestesses responsible for maintaining the sacred fire of Vesta, the goddess of the hearth.",
+    "B": "They were military commanders who led Roman legions into battle.",
+    "C": "They were scholars who preserved ancient texts and manuscripts in the Library of Alexandria.",
+    "D": "They were artisans who created intricate mosaics and frescoes in Roman villas.",
+    "answer": "A"
+  },
+  {
+    "question": "The Great Wall of China is a famous landmark, but when was it first constructed?",
+    "A": "During the Qin Dynasty, around 221 BCE",
+    "B": "During the reign of Alexander the Great in the 4th century BCE",
+    "C": "As part of the Roman Empire's expansion in the 1st century CE",
+    "D": "During the Aztec civilization's peak in the 15th century CE",
+    "answer": "A"
+  },
+  {
+    "question": "The Rosetta Stone was a key to deciphering what ancient language?",
+    "A": "Sanskrit, the language of ancient India",
+    "B": "Hieroglyphics, the pictographic writing system of ancient Egypt",
+    "C": " cuneiform, the wedge-shaped writing system of Mesopotamia",
+    "D": "Latin, the language of the Roman Empire",
+    "answer": "B"
+  },
+  {
+    "question": "The Trojan War is a famous conflict from Greek mythology. What city-state was supposedly defending Troy?",
+    "A": "Sparta, known for its powerful military",
+    "B": "Athens, a center of art and philosophy",
+    "C": "Mycenae, a major Bronze Age Greek city",
+    "D": "Thebes, home to the pharaohs in ancient Egypt",
+    "answer": "C"
+  },
+  {
+    "question": "Which civilization is known for its massive stepped pyramids?",
+    "A": "Ancient Greece",
+    "B": "Ancient China",
+    "C": "Mesopotamia",
+    "D": "Aztec Empire",
+    "answer": "B"
+  },
+  {
+    "question": "The Colosseum is a famous landmark in which ancient city?",
+    "A": "Athens",
+    "B": "Alexandria",
+    "C": "Carthage",
+    "D": "Rome",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the famous hanging gardens, considered one of the Seven Wonders of the Ancient World?",
+    "A": "Hanging Gardens of Babylon",
+    "B": "Gardens of Versailles",
+    "C": "Hanging Gardens of Semiramis",
+    "D": "Gardens of Pompeii",
+    "answer": "A"
+  },
+  {
+    "question": "The Indus Valley Civilization flourished around which rivers?",
+    "A": "Nile and Tigris",
+    "B": "Indus and Ganges",
+    "C": "Euphrates and Tigris",
+    "D": "Nile and Euphrates",
+    "answer": "B"
+  },
+  {
+    "question": "The Qin Dynasty built what massive construction project in China?",
+    "A": "The Great Wall",
+    "B": "The Hanging Gardens",
+    "C": "The Parthenon",
+    "D": "The Colosseum",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the famous pharaoh who defied tradition and built a temple to a single god?",
+    "A": "Ramses II",
+    "B": "Tutankhamun",
+    "C": "Akhenaten",
+    "D": "Cleopatra",
+    "answer": "C"
+  },
+  {
+    "question": "Which empire is known for its impressive network of roads and aqueducts?",
+    "A": "Persian Empire",
+    "B": "Roman Empire",
+    "C": "Egyptian Empire",
+    "D": "Han Dynasty",
+    "answer": "B"
+  },
+  {
+    "question": "The Rosetta Stone was a key to deciphering what ancient language?",
+    "A": "Sanskrit, the language of ancient India",
+    "B": "Hieroglyphics, the pictographic writing system of ancient Egypt",
+    "C": "cuneiform, the wedge-shaped writing system of Mesopotamia",
+    "D": "Latin, the language of the Roman Empire",
+    "answer": "B"
+  },
+  {
+    "question": "The Trojan War is a famous conflict from Greek mythology. What city-state was supposedly defending Troy?",
+    "A": "Sparta, known for its powerful military",
+    "B": "Athens, a center of art and philosophy",
+    "C": "Mycenae, a major Bronze Age Greek city",
+    "D": "Thebes, home to the pharaohs in ancient Egypt",
+    "answer": "C"
+  },
+  {
+    "question": "The mummification process was an important part of the funerary practices in which ancient civilization?",
+    "A": "Ancient Greece",
+    "B": "Ancient China",
+    "C": "Mesopotamia",
+    "D": "Ancient Egypt",
+    "answer": "D"
+  },
+  {
+    "question": "The Parthenon is a famous temple dedicated to which Greek goddess?",
+    "A": "Aphrodite, goddess of love",
+    "B": "Athena, goddess of wisdom and warfare",
+    "C": "Hera, queen of the gods",
+    "D": "Demeter, goddess of agriculture",
+    "answer": "B"
+  },
+  {
+    "question": "The Vikings were known for their seafaring skills and exploration. What region did they originate from?",
+    "A": "Mediterranean Sea",
+    "B": "Scandinavia",
+    "C": "British Isles",
+    "D": "North Africa",
+    "answer": "B"
+  },
+  {
+    "question": "The Mauryan Empire was a powerful Indian empire known for its spread of which religion?",
+    "A": "Hinduism",
+    "B": "Buddhism",
+    "C": "Jainism",
+    "D": "Sikhism"
+  },
+  {
+    "question": "The Great Sphinx is a famous monument located near which ancient city?",
+    "A": "Memphis",
+    "B": "Thebes",
+    "C": "Alexandria",
+    "D": "Giza",
+    "answer": "D"
+  },
+  {
+    "question": "The Epic of Gilgamesh is considered one of the oldest works of literature. What civilization does it come from?",
+    "A": "Ancient Egypt",
+    "B": "Mesopotamia",
+    "C": "Ancient Greece",
+    "D": "Indus Valley Civilization",
+    "answer": "B"
+  },
+  {
+    "question": "The concept of zero was a significant mathematical development from which ancient civilization?",
+    "A": "Ancient Rome",
+    "B": "Maya Civilization",
+    "C": "Han Dynasty China",
+    "D": "Ancient Greece",
+    "answer": "C"
+  },
+  {
+    "question": "Stonehenge is a prehistoric monument located in which modern-day country?",
+    "A": "Egypt",
+    "B": "France",
+    "C": "England",
+    "D": "India",
+    "answer": "C"
+  },
+  {
+    "question": "The gladiatorial combats of the Roman Empire were held in which structures?",
+    "A": "Amphitheaters",
+    "B": "Forums",
+    "C": "Temples",
+    "D": "Aqueducts",
+    "answer": "A"
+  },
+  {
+    "question": "The Terracotta Army is a vast collection of sculptures depicting the army of which Chinese emperor?",
+    "A": "Qin Shi Huang",
+    "B": "Han Wudi",
+    "C": "Confucius",
+    "D": "Genghis Khan",
+    "answer": "A"
+  },
+  {
+    "question": "The Oracle of Delphi was an important religious site in ancient Greece. What god was associated with the oracle?",
+    "A": "Zeus, king of the gods",
+    "B": "Apollo, god of music and prophecy",
+    "C": "Poseidon, god of the sea",
+    "D": "Aphrodite, goddess of love",
+    "answer": "B"
+  },
+  {
+    "question": "The Aztec Empire was a powerful Mesoamerican civilization known for its capital city of?",
+    "A": "Teotihuacan",
+    "B": "Tikal",
+    "C": "Tenochtitlan",
+    "D": "Chichen Itza",
+    "answer": "C"
+  },
+  {
+    "question": "The Punic Wars were a series of conflicts fought between which two major powers?",
+    "A": "Rome and Carthage",
+    "B": "Egypt and Persia",
+    "C": "Greece and Sparta",
+    "D": "China and Korea",
+    "answer": "A"
+  },
+  {
+    "question": "The Rosetta Stone is inscribed with three different languages. Which language did scholars use to decipher the hieroglyphs?",
+    "A": "Sanskrit",
+    "B": "Ancient Greek",
+    "C": "Hebrew",
+    "D": "Latin",
+    "answer": "B"
+  },
+  {
+    "question": "The Great Wall of China is a massive defensive structure. Which dynasty is credited with starting its construction?",
+    "A": "Shang Dynasty",
+    "B": "Qin Dynasty",
+    "C": "Han Dynasty",
+    "D": "Ming Dynasty",
+    "answer": "B"
+  },
+  {
+    "question": "The mummification process aimed to preserve the body for the afterlife. What organs were typically removed during this process?",
+    "A": "Brain and heart",
+    "B": "Lungs and liver",
+    "C": "Stomach and intestines",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "What writing system used clay tablets with wedge-shaped impressions?",
+    "A": "Hieroglyphics",
+    "B": "Cuneiform",
+    "C": "Phoenician alphabet",
+    "D": "Linear B",
+    "answer": "B"
+  },
+  {
+    "question": "Which pharaoh built the elaborate mortuary temple complex at Abu Simbel?",
+    "A": "Ramses II",
+    "B": "Tutankhamun",
+    "C": "Cleopatra VII",
+    "D": "Hatshepsut",
+    "answer": "A"
+  },
+  {
+    "question": "The Minoan civilization flourished on which island in the Mediterranean?",
+    "A": "Crete",
+    "B": "Cyprus",
+    "C": "Rhodes",
+    "D": "Sicily",
+    "answer": "A"
+  },
+  {
+    "question": "The philosophy of Confucianism originated in which ancient civilization?",
+    "A": "Ancient India",
+    "B": "Ancient Greece",
+    "C": "Ancient Egypt",
+    "D": "Ancient China",
+    "answer": "D"
+  },
+  {
+    "question": "What innovation allowed for the construction of large pyramids in ancient Egypt?",
+    "A": "Iron tools",
+    "B": "The wheel",
+    "C": "Advanced mathematics",
+    "D": "Slave labor",
+    "answer": "C"
+  },
+  {
+    "question": "The concept of Pax Romana refers to a period of relative peace within which empire?",
+    "A": "Persian Empire",
+    "B": "Alexander's Empire",
+    "C": "Roman Empire",
+    "D": "Mauryan Empire",
+    "answer": "C"
+  },
+  {
+    "question": "The epic poem The Iliad tells the story of the Trojan War from the perspective of which hero?",
+    "A": "Achilles",
+    "B": "Odysseus",
+    "C": "Hector",
+    "D": "Agamemnon",
+    "answer": "A"
+  },
+  {
+    "question": "The Nazca Lines are a series of giant geoglyphs located in which modern-day country?",
+    "A": "Peru",
+    "B": "Mexico",
+    "C": "Chile",
+    "D": "Bolivia",
+    "answer": "A"
+  },
+  {
+    "question": "The concept of democracy originated in which ancient Greek city-state?",
+    "A": "Sparta",
+    "B": "Athens",
+    "C": "Thebes",
+    "D": "Corinth",
+    "answer": "B"
+  },
+  {
+    "question": "What was the name of the powerful empire that ruled much of Mesopotamia during the Iron Age?",
+    "A": "Akkadian Empire",
+    "B": "Neo-Assyrian Empire",
+    "C": "Babylonian Empire",
+    "D": "Hittite Empire",
+    "answer": "B"
+  },
+  {
+    "question": "The Hanging Gardens of Babylon were one of the Seven Wonders of the Ancient World. What civilization built them?",
+    "A": "Babylonians",
+    "B": "Assyrians",
+    "C": "Sumerians",
+    "D": "Persians",
+    "answer": "A"
+  },
+  {
+    "question": "The Colosseum and the Pantheon are famous landmarks found in which ancient city?",
+    "A": "Carthage",
+    "B": "Alexandria",
+    "C": "Constantinople",
+    "D": "Rome",
+    "answer": "D"
+  },
+  {
+    "question": "The ancient Olympic Games were held every four years in honor of which Greek god?",
+    "A": "Zeus",
+    "B": "Poseidon",
+    "C": "Athena",
+    "D": "Hermes",
+    "answer": "A"
+  },
+  {
+    "question": "The Silk Road was a network of trade routes connecting which regions of the world?",
+    "A": "Europe and Africa",
+    "B": "East Asia and the Mediterranean",
+    "C": "North and South America",
+    "D": "Mesopotamia and Egypt",
+    "answer": "B"
+  },
+  {
+    "question": "The ancient city of Machu Picchu is located high in the Andes Mountains of which modern-day country?",
+    "A": "Colombia",
+    "B": "Argentina",
+    "C": "Peru",
+    "D": "Ecuador",
+    "answer": "C"
+  },
+  {
+    "question": "The Rosetta Stone was a key to deciphering the ancient Egyptian writing system known as...?",
+    "A": "Cuneiform",
+    "B": "Hieroglyphics",
+    "C": "Demotic script",
+    "D": "Linear A",
+    "answer": "B"
+  },
+  {
+    "question": "The Vikings were skilled seafarers who raided and explored parts of Europe and beyond. What is another name for them?",
+    "A": "Gauls",
+    "B": "Celts",
+    "C": "Norsemen",
+    "D": "Franks",
+    "answer": "C"
+  },
+  {
+    "question": "The Indus Valley Civilization is known for its well-planned cities with sophisticated drainage systems. In which modern-day country are the ruins of these cities located?",
+    "A": "Iran",
+    "B": "Pakistan",
+    "C": "India",
+    "D": "Afghanistan",
+    "answer": "B"
+  },
+  {
+    "question": "The Māori people are the indigenous inhabitants of which island nation?",
+    "A": "Australia",
+    "B": "New Zealand",
+    "C": "Fiji",
+    "D": "Papua New Guinea",
+    "answer": "B"
+  },
+  {
+    "question": "The Great Wall of China is a series of fortifications built over centuries. Which dynasty is credited with starting its construction?",
+    "A": "Shang Dynasty",
+    "B": "Qin Dynasty",
+    "C": "Han Dynasty",
+    "D": "Ming Dynasty",
+    "answer": "B"
+  },
+  {
+    "question": "Machu Picchu was most likely built by which civilization?",
+    "A": "Aztec Empire",
+    "B": "Inca Empire",
+    "C": "Maya Civilization",
+    "D": "Mississippian culture",
+    "answer": "B"
+  },
+  {
+    "question": "The Parthenon is a temple dedicated to a Greek goddess. What architectural style is it built in?",
+    "A": "Doric",
+    "B": "Ionic",
+    "C": "Corinthian",
+    "D": "Egyptian",
+    "answer": "A"
+  },
+  {
+    "question": "Feudalism was a social system based on the exchange of land for military service. It was prevalent in which historical period?",
+    "A": "Classical Era",
+    "B": "Medieval Era",
+    "C": "Bronze Age",
+    "D": "Iron Age",
+    "answer": "B"
+  },
+  {
+    "question": "The Rosetta Stone contained inscriptions in three languages. Which language did scholars already understand when they began deciphering the hieroglyphs?",
+    "A": "Ancient Egyptian",
+    "B": "Ancient Greek",
+    "C": "Demotic script",
+    "D": "Hieratic script",
+    "answer": "B"
+  },
+  {
+    "question": "The earliest known code of laws was created by which Mesopotamian king?",
+    "A": "Sargon of Akkad",
+    "B": "Hammurabi",
+    "C": "Ashurbanipal",
+    "D": "Nebuchadnezzar II",
+    "answer": "B"
+  },
+  {
+    "question": "The lost city of Atlantis is a legendary island mentioned by which Greek philosopher?",
+    "A": "Socrates",
+    "B": "Plato",
+    "C": "Aristotle",
+    "D": "Archimedes",
+    "answer": "B"
+  },
+  {
+    "question": "The Qin Dynasty built the Terracotta Army to guard the tomb of which emperor?",
+    "A": "Shi Huangdi",
+    "B": "Qin Shi Huang",
+    "C": "Gaozu",
+    "D": "Wu Zetian",
+    "answer": "B"
+  },
+  {
+    "question": "The Punic Wars were a series of conflicts fought between Carthage and which other major power?",
+    "A": "Greece",
+    "B": "Rome",
+    "C": "Egypt",
+    "D": "Persia",
+    "answer": "B"
+  },
+  {
+    "question": "The concept of filial piety, emphasizing respect for one's parents and ancestors, is a core value in which civilization?",
+    "A": "Ancient Greece",
+    "B": "Ancient Rome",
+    "C": "Ancient Egypt",
+    "D": "Ancient China",
+    "answer": "D"
+  },
+  {
+    "question": "The Colosseum hosted gladiatorial combats and other public spectacles in which ancient city?",
+    "A": "Athens",
+    "B": "Sparta",
+    "C": "Alexandria",
+    "D": "Rome",
+    "answer": "D"
+  },
+  {
+    "question": "The ancient city of Pompeii was destroyed by the eruption of which volcano?",
+    "A": "Mount Vesuvius",
+    "B": "Mount Etna",
+    "C": "Mount Stromboli",
+    "D": "Mount Teide",
+    "answer": "A"
+  },
+  {
+    "question": "The bubonic plague, also known as the Black Death, is believed to have originated in which region?",
+    "A": "Europe",
+    "B": "Central Asia",
+    "C": "North Africa",
+    "D": "Middle East",
+    "answer": "B"
+  },
+  {
+    "question": "The Rosetta Stone was discovered by French soldiers during Napoleon's invasion of which country?",
+    "A": "Greece",
+    "B": "Egypt",
+    "C": "Turkey",
+    "D": "Iran",
+    "answer": "B"
+  },
+  {
+    "question": "The earliest Olympic Games were centered around athletic competitions in honor of Zeus in which location?",
+    "A": "Olympia",
+    "B": "Delphi",
+    "C": "Marathon",
+    "D": "Athens",
+    "answer": "A"
+  },
+  {
+    "question": "What was the name of the pharaoh who defied tradition and attempted to establish a monotheistic religion worshipping the Aten sun disc?",
+    "A": "Tutankhamun",
+    "B": "Akhenaten",
+    "C": "Ramses II",
+    "D": "Cleopatra VII",
+    "answer": "B"
+  },
+  {
+    "question": "Which powerful West African empire was known for its vast wealth in gold?",
+    "A": "Ghana Empire",
+    "B": "Mali Empire",
+    "C": "Songhai Empire",
+    "D": "Kanem-Bornu Empire",
+    "answer": "A"
+  },
+  {
+    "question": "The ancient Maya civilization developed a complex writing system. What is it called?",
+    "A": "Cuneiform",
+    "B": "Hieroglyphics",
+    "C": "Mayan script",
+    "D": "Indus script",
+    "answer": "C"
+  },
+  {
+    "question": "The Great Sphinx is a famous monument located near the pyramids at Giza. What mythical creature does the Sphinx resemble?",
+    "A": "Griffin",
+    "B": "Centaur",
+    "C": "Sphinx",
+    "D": "Minotaur",
+    "answer": "C"
+  },
+  {
+    "question": "The concept of 'Bushido' is a code of honor emphasizing martial prowess and loyalty. It is associated with which culture?",
+    "A": "Ancient China",
+    "B": "Ancient Japan",
+    "C": "Ancient Greece",
+    "D": "Ancient Rome",
+    "answer": "B"
+  },
+  {
+    "question": "The ancient city of Petra, carved into the rose-red sandstone cliffs, was the capital of which Nabataean kingdom?",
+    "A": "Assyria",
+    "B": "Babylonia",
+    "C": "Judea",
+    "D": "Nabataea",
+    "answer": "D"
+  },
+  {
+    "question": "The theory of heliocentrism, placing the sun at the center of the solar system, was championed by which astronomer during the Renaissance period?",
+    "A": "Galileo Galilei",
+    "B": "Isaac Newton",
+    "C": "Johannes Kepler",
+    "D": "Nicolaus Copernicus",
+    "answer": "D"
+  },
+  {
+    "question": "The Magna Carta was a document signed by King John of England in 1215. What did it limit the power of the monarch to do?",
+    "A": "Declare war",
+    "B": "Impose taxes",
+    "C": "Grant titles",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The concept of 'Pax Mongolia' refers to a period of relative peace and trade facilitated by the vast Mongol Empire. What was the name of the famous Mongol leader who oversaw this era?",
+    "A": "Genghis Khan",
+    "B": "Kublai Khan",
+    "C": "Ögedei Khan",
+    "D": "Temujin",
+    "answer": "B"
+  },
+  {
+    "question": "The Rosetta Stone was a key to deciphering ancient Egyptian hieroglyphs. In what two other languages were inscriptions found on the stone?",
+    "A": "Akkadian and Sumerian",
+    "B": "Demotic script and Ancient Greek",
+    "C": "Phoenician and Hebrew",
+    "D": "Linear A and Linear B",
+    "answer": "B"
+  },
+  {
+    "question": "The Parthenon, a famous temple in Athens, was built to honor which Greek goddess?",
+    "A": "Athena",
+    "B": "Hera",
+    "C": "Aphrodite",
+    "D": "Artemis",
+    "answer": "A"
+  },
+  {
+    "question": "The Hanging Gardens of Babylon were one of the Seven Wonders of the Ancient World. What kind of garden were they?",
+    "A": "Rooftop gardens",
+    "B": "Water gardens",
+    "C": "Desert gardens",
+    "D": "Sunken gardens",
+    "answer": "B"
+  },
+  {
+    "question": "The ancient Indus Valley Civilization is known for its well-planned cities with sophisticated drainage systems. What is the name of one of its major excavated cities?",
+    "A": "Mohenjo-daro",
+    "B": "Harappa",
+    "C": "Ur",
+    "D": "Persepolis",
+    "answer": "A"
+  },
+  {
+    "question": "The philosophy of Stoicism emphasizes reason and virtue over emotion. It originated in which ancient empire?",
+    "A": "Roman Empire",
+    "B": "Hellenistic Greece",
+    "C": "Persian Empire",
+    "D": "Mauryan Empire",
+    "answer": "B"
+  },
+  {
+    "question": "The Colosseum hosted gladiatorial combats and public spectacles. What is the estimated capacity of this ancient Roman amphitheater?",
+    "A": "10,000 spectators",
+    "B": "50,000 spectators",
+    "C": "80,000 spectators",
+    "D": "100,000 spectators",
+    "answer": "C"
+  },
+  {
+    "question": "The Vikings were skilled seafarers known for their raids and exploration. What is another name for their longships, the fast and maneuverable ships they used?",
+    "A": "Drakkars",
+    "B": "Cogs",
+    "C": "Galleys",
+    "D": "Dhows",
+    "answer": "A"
+  },
+  {
+    "question": "The mummification process aimed to preserve the body for the afterlife. What Egyptian god was associated with the underworld and the dead?",
+    "A": "Ra",
+    "B": "Osiris",
+    "C": "Anubis",
+    "D": "Bastet",
+    "answer": "B"
+  },
+  {
+    "question": "The ancient city of Teotihuacan was a major center of civilization in Mesoamerica. What is believed to be the meaning of the name 'Teotihuacan' in the Nahuatl language?",
+    "A": "City of the Gods",
+    "B": "Place of Birth",
+    "C": "Valley of Kings",
+    "D": "House of the Sun",
+    "answer": "A"
+  },
+  {
+    "question": "The Silk Road was a network of trade routes connecting East Asia with which regions?",
+    "A": "Europe and Africa",
+    "B": "The Mediterranean and North Africa",
+    "C": "The Americas",
+    "D": "The Middle East and the Mediterranean",
+    "answer": "D"
+  },
+  {
+    "question": "The Minoan civilization flourished on the island of Crete and is known for its elaborate palaces. What is the name of a famous Minoan palace complex?",
+    "A": "Carthage",
+    "B": "Knossos",
+    "C": "Ephesus",
+    "D": "Pergamon",
+    "answer": "B"
+  },
+  {
+    "question": "The concept of democracy originated in ancient Greece. What city-state is considered the birthplace of democracy?",
+    "A": "Sparta",
+    "B": "Athens",
+    "C": "Thebes",
+    "D": "Corinth",
+    "answer": "B"
+  },
+  {
+    "question": "The Great Wall of China is a series of fortifications built over centuries. What material was primarily used in its construction?",
+    "A": "Marble",
+    "B": "Granite",
+    "C": "Brick",
+    "D": "Rammed earth",
+    "answer": "D"
+  },
+  {
+    "question": "The ancient Olympic Games were held every four years in honor of Zeus. In which city were the original Olympic Games برگزار ( برگزار  means 'held' in Farsi) ?",
+    "A": "Olympia",
+    "B": "Delphi",
+    "C": "Marathon",
+    "D": "Athens",
+    "answer": "A"
+  },
+  {
+    "question": "The Rosetta Stone was a key to deciphering ancient Egyptian hieroglyphs. In what country was the Rosetta Stone discovered?",
+    "A": "Greece",
+    "B": "Egypt",
+    "C": "Turkey",
+    "D": "Iran",
+    "answer": "B"
+  },
+  {
+    "question": "Feudalism was a social system based on the exchange of land for military service. During which historical period was feudalism most prevalent?",
+    "A": "Classical Era",
+    "B": "Medieval Era",
+    "C": "Bronze Age",
+    "D": "Iron Age",
+    "answer": "B"
+  },
+  {
+    "question": "The theory of heliocentrism, placing the sun at the center of the solar system, challenged the prevailing geocentric model. Who was a famous astronomer associated with heliocentrism?",
+    "A": "Galileo Galilei",
+    "B": "Isaac Newton",
+    "C": "Johannes Kepler",
+    "D": "Nicolaus Copernicus",
+    "answer": "D"
+  },
+  {
+    "question": "The oracle at Delphi was a famous sanctuary and religious center in ancient Greece. What god was said to preside over the oracle?",
+    "A": "Zeus",
+    "B": "Apollo",
+    "C": "Athena",
+    "D": "Poseidon",
+    "answer": "B"
+  },
+  {
+    "question": "Mohenjo-daro and Harappa are two major cities of the Indus Valley Civilization. What modern-day country is located in the region where these cities flourished?",
+    "A": "India",
+    "B": "Pakistan",
+    "C": "Afghanistan",
+    "D": "Iran",
+    "answer": "B"
+  },
+  {
+    "question": "The ancient city of Carthage, a major Phoenician trading center, was located in what is now present-day:",
+    "A": "Tunisia",
+    "B": "Algeria",
+    "C": "Morocco",
+    "D": "Libya",
+    "answer": "A"
+  },
+  {
+    "question": "Hieroglyphics were a complex writing system used by the ancient Egyptians. What is another writing system developed in ancient Egypt, featuring more simplified characters?",
+    "A": "Cuneiform",
+    "B": "Demotic script",
+    "C": "Linear A",
+    "D": "Linear B",
+    "answer": "B"
+  },
+  {
+    "question": "The concept of filial piety, emphasizing respect for one's parents and ancestors, is a core value in many cultures. Which dynasty is considered a golden age of Chinese civilization and is known for its emphasis on Confucian ideals?",
+    "A": "Shang Dynasty",
+    "B": "Zhou Dynasty",
+    "C": "Han Dynasty",
+    "D": "Tang Dynasty",
+    "answer": "B"
+  },
+  {
+    "question": "The ancient Maya civilization developed a complex calendar system. What is the name of their cyclical calendar with a 260-day cycle?",
+    "A": "Long Count",
+    "B": "Tzolkin",
+    "C": "Haab'",
+    "D": "K'in",
+    "answer": "B"
+  },
+  {
+    "question": "The Great Wall of China stretches for thousands of miles. What dynasty is credited with initiating construction on the Great Wall in its most recognizable form?",
+    "A": "Qin Dynasty",
+    "B": "Han Dynasty",
+    "C": "Sui Dynasty",
+    "D": "Ming Dynasty",
+    "answer": "A"
+  },
+  {
+    "question": "The concept of Pax Romana refers to a period of relative peace and stability within the Roman Empire. During the reign of which emperor did Pax Romana reach its height?",
+    "A": "Augustus",
+    "B": "Trajan",
+    "C": "Hadrian",
+    "D": "Marcus Aurelius",
+    "answer": "A"
+  },
+  {
+    "question": "The Aztec Empire was a powerful Mesoamerican civilization known for its advanced agriculture and urban planning. What was the capital city of the Aztec Empire?",
+    "A": "Teotihuacan",
+    "B": "Chichen Itza",
+    "C": "Tenochtitlan",
+    "D": "Tikal",
+    "answer": "C"
+  },
+  {
+    "question": "The Rosetta Stone was a key to deciphering ancient Egyptian hieroglyphs. What language did scholars already understand when they began the decipherment process?",
+    "A": "Ancient Egyptian (Hieratic script)",
+    "B": "Demotic script",
+    "C": "Ancient Greek",
+    "D": "Akkadian",
+    "answer": "C"
+  },
+  {
+    "question": "The Indus Valley Civilization flourished in the northwestern part of the Indian subcontinent. What material was extensively used in the construction of Indus Valley cities?",
+    "A": "Stone",
+    "B": "Baked brick",
+    "C": "Wood",
+    "D": "Mudbrick",
+    "answer": "D"
+  },
+  {
+    "question": "The Vedas are a collection of hymns and poems that form the foundation of Hinduism. In what language were the Vedas originally composed?",
+    "A": "Sanskrit",
+    "B": "Tamil",
+    "C": "Pali",
+    "D": "Prakrit",
+    "answer": "A"
+  },
+  {
+    "question": "The Mauryan Empire, under Ashoka the Great, embraced Buddhism. What pillar edicts scattered across India are associated with Ashoka's reign?",
+    "A": "Ashoka Stambhas",
+    "B": "Gupta Pillars",
+    "C": "Kharoshthi Inscriptions",
+    "D": "Kanishka Stupas",
+    "answer": "A"
+  },
+  {
+    "question": "The concept of Dharma is a central principle in Indian religions. What does Dharma generally refer to?",
+    "A": "Divine law and righteous duty",
+    "B": "Reincarnation and the cycle of rebirth",
+    "C": "The four castes of the social hierarchy",
+    "D": "Enlightenment and liberation from suffering",
+    "answer": "A"
+  },
+  {
+    "question": "The Chola Dynasty was a powerful South Indian kingdom known for its naval prowess. What is the name of a famous bronze statue of the Nataraja, the dancing Shiva, attributed to the Chola period?",
+    "A": "The Great Bull of Mahenjo-daro",
+    "B": "The Ellora Caves",
+    "C": "The Nataraja of Chidambaram",
+    "D": "The Sanchi Stupa",
+    "answer": "C"
+  },
+  {
+    "question": "The epics Ramayana and Mahabharata are foundational texts in Indian literature. In which language was the Ramayana originally composed?",
+    "A": "Sanskrit",
+    "B": "Tamil",
+    "C": "Pali",
+    "D": "Prakrit",
+    "answer": "A"
+  },
+  {
+    "question": "The Mughal Empire ruled over a large part of India. What was the religion of the Mughal emperors?",
+    "A": "Hinduism",
+    "B": "Islam",
+    "C": "Buddhism",
+    "D": "Jainism",
+    "answer": "B"
+  },
+  {
+    "question": "Ajanta and Ellora Caves are famous for their rock-cut sculptures and paintings. These caves are located in which modern-day state of India?",
+    "A": "Maharashtra",
+    "B": "Gujarat",
+    "C": "Rajasthan",
+    "D": "Uttar Pradesh",
+    "answer": "A"
+  },
+  {
+    "question": "The Indus Valley Civilization had a well-developed drainage system. What material was likely used for these drains?",
+    "A": "Terracotta",
+    "B": "Stone",
+    "C": "Brick",
+    "D": "Concrete",
+    "answer": "A"
+  },
+  {
+    "question": "The Arthashastra is an ancient Indian treatise on statecraft, economics, and military strategy. Who is traditionally credited as the author?",
+    "A": "Chanakya",
+    "B": "Ashoka",
+    "C": "Kalidasa",
+    "D": "Gautama Buddha",
+    "answer": "A"
+  },
+  {
+    "question": "The practice of Sati, where a widow would be immolated on her husband's funeral pyre, was eventually outlawed in India. During which colonial era did the British ban Sati?",
+    "A": "17th century",
+    "B": "18th century",
+    "C": "19th century",
+    "D": "20th century",
+    "answer": "C"
+  },
+  {
+    "question": "The Nalanda Mahavihara was a renowned center of learning in ancient India. What subjects were scholars known to study at Nalanda?",
+    "A": "Philosophy, religion, medicine, and astronomy",
+    "B": "Literature, mathematics, warfare, and law",
+    "C": "Agriculture, engineering, architecture, and music",
+    "D": "Trade, diplomacy, navigation, and statecraft",
+    "answer": "A"
+  },
+  {
+    "question": "The Indus Valley people are not believed to have had an alphabetic writing system. What type of writing did they likely use?",
+    "A": "Pictograms",
+    "B": "Ideograms",
+    "C": "Cuneiform",
+    "D": "Hieroglyphics",
+    "answer": "A"
+  },
+  {
+    "question": "The partition of India in 1947 led to the creation of two independent states. What are the names of these two countries?",
+    "A": "India and Pakistan",
+    "B": "India and Bangladesh",
+    "C": "India and Sri Lanka",
+    "D": "India and Nepal",
+    "answer": "A"
+  },
+  {
+    "question": "The Ashoka Pillar at Delhi is one of the Ashoka Stambhas. What animal figure typically surmounts these pillars?",
+    "A": "Elephant",
+    "B": "Lion",
+    "C": "Tiger",
+    "D": "Bull",
+    "answer": "B"
+  },
+  {
+    "question": "The Indus Valley cities of Mohenjo-daro and Harappa had large granaries. What crops were likely stored in these granaries?",
+    "A": "Wheat, barley, and rice",
+    "B": "Cotton, sesame, and flax",
+    "C": "Dates, olives, and grapes",
+    "D": "Corn, beans, and squash",
+    "answer": "A"
+  },
+  {
+    "question": "The Sangam period in South India is known for its Tamil literature. What is a famous collection of poems from this era?",
+    "A": "Mahabharata",
+    "B": "Rigveda",
+    "C": "Tirukkural",
+    "D": "Manusmriti",
+    "answer": "C"
+  },
+  {
+    "question": "The Indus Valley Civilization is known for its well-planned cities. What is the name of a large public bath discovered at Mohenjo-daro?",
+    "A": "Great Bath",
+    "B": "Hall of Pillars",
+    "C": "Citadel",
+    "D": "Granary",
+    "answer": "A"
+  },
+  {
+    "question": "The Bhakti movement emphasized devotion to a personal god or goddess. This movement gained prominence during the reign of which empires?",
+    "A": "Mauryan Empire",
+    "B": "Gupta Empire",
+    "C": "Chola Empire",
+    "D": "Vijayanagara Empire",
+    "answer": "B && D"
+  },
+  {
+    "question": "The practice of untouchability, associated with the caste system, is a social hierarchy. What is the highest caste in the traditional system?",
+    "A": "Brahmins",
+    "B": "Kshatriyas",
+    "C": "Vaishyas",
+    "D": "Shudras",
+    "answer": "A"
+  },
+  {
+    "question": "The Indus Valley civilization mysteriously declined around 1900 BCE. What are some possible reasons historians propose for this decline?",
+    "A": "Climate change and environmental degradation",
+    "B": "Foreign invasion and warfare",
+    "C": "Overuse of resources and agricultural collapse",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Indus Valley civilization had sophisticated craft traditions. What are some materials they were skilled in working with?",
+    "A": "Metal, pottery, and textiles",
+    "B": "Stone, ivory, and shells",
+    "C": "Glass, leather, and wood",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Maurya Empire, under Ashoka the Great, converted to Buddhism. What are some principles Ashoka promoted through his edicts?",
+    "A": "Non-violence, tolerance, and respect for all life",
+    "B": "Emphasis on military power and territorial expansion",
+    "C": "Strict adherence to caste hierarchy and social order",
+    "D": "Focus on elaborate rituals and sacrifices to appease gods",
+    "answer": "A"
+  },
+  {
+    "question": "The Indus Valley civilization had trade connections with other parts of Mesopotamia. What is an example of a good that may have been traded?",
+    "A": "Spices",
+    "B": "Beads",
+    "C": "Horses",
+    "D": "Iron tools",
+    "answer": "B"
+  },
+  {
+    "question": "The Indus Valley script remains undeciphered. What are some challenges scholars face in deciphering the script?",
+    "A": "Lack of bilingual inscriptions with a known language",
+    "B": "Limited number of surviving Indus Valley texts",
+    "C": "Uncertain understanding of the Indus Valley culture and language",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Chalukya dynasty ruled parts of South India. What is the name of a famous rock-cut temple complex built by the Chalukyas?",
+    "A": "Khajuraho Temples",
+    "B": "Brihadisvara Temple",
+    "C": "Ajanta Caves",
+    "D": "Badami Caves",
+    "answer": "D"
+  },
+  {
+    "question": "The Indus Valley civilization is known for its seals, often depicting animals. What material were these seals typically made from?",
+    "A": "Metal",
+    "B": "Stone",
+    "C": "Clay",
+    "D": "Ivory",
+    "answer": "C"
+  },
+  {
+    "question": "The concept of Ahimsa, or non-violence, is a core principle in many Indian religions. Which religious leader is most closely associated with the spread of Ahimsa?",
+    "A": "Mahavira",
+    "B": "Gautama Buddha",
+    "C": "Krishna",
+    "D": "Rama",
+    "answer": "B"
+  },
+  {
+    "question": "The Indus Valley civilization had a well-organized system of weights and measures. What evidence suggests this level of organization?",
+    "A": "Uniformity in the size and shape of bricks used in construction",
+    "B": "Standardized designs on pottery found across different settlements",
+    "C": "Presence of specific symbols on Indus Valley seals",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Mughal emperors were patrons of the arts and architecture. What is the name of a famous Mughal garden located in Agra?",
+    "A": "Shalimar Bagh",
+    "B": "Hanging Gardens of Babylon",
+    "C": "Gardens of Versailles",
+    "D": "Eden Project",
+    "answer": "A"
+  },
+  {
+    "question": "The Chola dynasty was a maritime power. What is the name of a famous port city that flourished during the Chola period?",
+    "A": "Calicut",
+    "B": "Pondicherry",
+    "C": "Kolkata",
+    "D": "Puhar",
+    "answer": "D"
+  },
+  {
+    "question": "The Indus Valley civilization did not have a king or a single ruler. How was society likely organized?",
+    "A": "Through a network of independent city-states",
+    "B": "By a hereditary monarchy with absolute power",
+    "C": "Under a powerful priestly class with religious authority",
+    "D": "As a nomadic society with no permanent settlements",
+    "answer": "A"
+  },
+  {
+    "question": "The Gupta Empire is considered a golden age in Indian history. What advancements were made during this period?",
+    "A": "Developments in mathematics, astronomy, and literature",
+    "B": "Expansion of trade networks and flourishing of art forms",
+    "C": "Establishment of a strong centralized administration",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Indus Valley civilization had a sophisticated drainage system. What feature helped channel wastewater away from houses?",
+    "A": "Underground canals",
+    "B": "Elevated walkways",
+    "C": "Fortified walls",
+    "D": "Religious structures",
+    "answer": "A"
+  },
+  {
+    "question": "The Indus Valley civilization had granaries for storing food. What staple food crop might have been stored in large quantities?",
+    "A": "Wheat",
+    "B": "Rice",
+    "C": "Maize (corn)",
+    "D": "Potatoes",
+    "answer": "B"
+  },
+  {
+    "question": "The Indus Valley civilization is also known as the Harappan civilization. Why is this name used?",
+    "A": "Harappa was the capital city of the Indus Valley civilization",
+    "B": "The first major Indus Valley site was discovered at Harappa",
+    "C": "Harappa means 'city' in the Indus Valley language",
+    "D": "The Indus River flows near the city of Harappa",
+    "answer": "B"
+  },
+  {
+    "question": "The Indus Valley civilization had a diverse range of artifacts. What material was used to create some of their distinctive figurines?",
+    "A": "Gold",
+    "B": "Bronze",
+    "C": "Terracotta",
+    "D": "Jade",
+    "answer": "C"
+  },
+  {
+    "question": "The Arthashastra is an ancient Indian treatise on statecraft and economics. What is another name this text is sometimes referred to by?",
+
+    "A": "Book of Wisdom",
+    "B": "Laws of Manu",
+    "C": "Kautilya's Arthashastra",
+    "D": "The Mahabharata",
+    "answer": "C"
+  },
+  {
+    "question": "The Indus Valley civilization had a complex system for measuring time. What evidence suggests this?",
+    "A": "Presence of sundials found in archaeological sites",
+    "B": "Depictions of astronomical events on Indus Valley seals",
+    "C": "Standardized sizes of bricks used in construction, possibly reflecting units of measurement",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Delhi Sultanate was a period of Muslim rule in India. What was the first dynasty of the Delhi Sultanate?",
+    "A": "Ghurid Dynasty",
+    "B": "Tughlaq Dynasty",
+    "C": "Sayyid Dynasty",
+    "D": "Lodhi Dynasty",
+    "answer": "A"
+  },
+  {
+    "question": "The Indus Valley civilization may have declined due to a combination of factors. What environmental change might have contributed to this decline?",
+    "A": "A shift in monsoon patterns leading to drought",
+    "B": "Increased volcanic activity causing widespread ashfall",
+    "C": "Overgrazing and depletion of natural resources",
+    "D": "All of the above",
+    "answer": "D"
+  },
+
+  {
+    "question": "The Indus Valley civilization had a well-developed system of weights. What materials might have been used for these weights?",
+    "A": "Stone, shell, and faience (glazed ceramic)",
+    "B": "Metal, wood, and ivory",
+    "C": "Textiles, leather, and straw",
+    "D": "Clay, seeds, and animal bones",
+    "answer": "A"
+  },
+  {
+    "question": "The Maurya Empire established trade routes throughout Asia. What Mauryan emperor is known for promoting these trade routes?",
+
+    "A": "Chandragupta Maurya",
+    "B": "Bindusara",
+    "C": "Ashoka the Great",
+    "D": "Samudragupta",
+    "answer": "C"
+  },
+  {
+    "question": "The Indus Valley civilization had impressive granaries. What architectural feature helped ensure proper ventilation for stored grain?",
+    "A": "High ceilings with air vents",
+    "B": "Raised platforms to keep grain away from moisture",
+    "C": "Compartments separated by walls for different types of grain",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Indus Valley civilization had a complex social hierarchy. What social class might have been responsible for overseeing construction projects?",
+
+    "A": "Artisans and craftspeople",
+    "B": "Farmers and agricultural workers",
+    "C": "Merchants and traders",
+    "D": "Elite or ruling class",
+    "answer": "D"
+  },
+  {
+    "question": "The Indus Valley civilization had a distinctive artistic style. What is a recurring motif found on Indus Valley seals?",
+    "A": "Geometric patterns and stylized animals",
+    "B": "Scenes of warfare and military conquest",
+    "C": "Detailed portraits of human figures",
+    "D": "Religious symbols and deities",
+    "answer": "A"
+  },
+  {
+    "question": "The Indus Valley civilization had a sophisticated understanding of town planning. What feature is a hallmark of their urban centers?",
+    "A": "Narrow, winding streets",
+    "B": "A well-organized grid layout",
+    "C": "Scattered settlements with no central planning",
+    "D": "Fortifications surrounding the entire city",
+    "answer": "B"
+  },
+  {
+    "question": "The Bhakti movement emphasized devotion to a personal god or goddess. What language were many Bhakti hymns composed in?",
+    "A": "Sanskrit",
+    "B": "Tamil",
+    "C": "Prakrit",
+    "D": "Pali",
+    "answer": "B && C"
+  },
+  {
+    "question": "The Gupta Empire is considered a golden age in mathematics. What is a famous mathematical concept developed in India during this period?",
+    "A": "The concept of zero",
+    "B": "The Pythagorean theorem",
+    "C": "Roman numerals",
+    "D": "Egyptian multiplication",
+    "answer": "A"
+  },
+  {
+    "question": "The Indus Valley civilization had a long-distance trade network. What material was likely used for some of their beads?",
+    "A": "Glass",
+    "B": "Semi-precious stones",
+    "C": "Shell",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Indus Valley script remains undeciphered. What challenges do scholars face in deciphering the script?",
+    "A": "Lack of a Rosetta Stone equivalent to provide a key",
+    "B": "Limited number of Indus Valley texts with a known language for comparison",
+    "C": "Incomplete understanding of the Indus Valley culture and language itself",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Indus Valley civilization had a diverse range of crafts. What evidence suggests they were skilled metalworkers?",
+    "A": "Discovery of bronze tools and ornaments at archaeological sites",
+    "B": "Depictions of metal objects on Indus Valley seals",
+    "C": "Presence of metal mines and workshops in Indus Valley cities",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Chola dynasty was a powerful South Indian kingdom. What is the name of a famous temple built by the Cholas at Thanjavur?",
+    "A": "Meenakshi Temple",
+    "B": "Brihadisvara Temple",
+    "C": "Virupaksha Temple",
+    "D": "Lingaraja Temple",
+    "answer": "B"
+  },
+  {
+    "question": "The Indus Valley civilization had a complex system of drainage. What material was likely used for lining drains?",
+    "A": "Sun-dried bricks",
+    "B": "Fired bricks",
+    "C": "Stone slabs",
+    "D": "Wooden planks",
+    "answer": "B"
+  },
+  {
+    "question": "The Indus Valley civilization had a variety of tools. What material was likely used for some of their tools?",
+    "A": "Copper",
+    "B": "Flint",
+    "C": "Bone",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "The Indus Valley civilization is also known as the Harappan civilization. What does 'Harappan' refer to?",
+    "A": "A deity worshipped by the Indus Valley people",
+    "B": "The language spoken by the Indus Valley people",
+    "C": "The location of the first major Indus Valley site discovered",
+    "D": "A type of pottery characteristic of the Indus Valley civilization",
+    "answer": "C"
+  }
+]
