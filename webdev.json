@@ -231,30 +231,8 @@
     "D": "A type of loop",
     "answer": "A"
   },
-  {
-    "question": "What is the purpose of the 'target' property in JavaScript events?",
-    "A": "To specify the event target",
-    "B": "To determine the event type",
-    "C": "To define the event handler function",
-    "D": "To identify the element that triggered the event",
-    "answer": "D"
-  },
-  {
-    "question": "What is the purpose of the 'for' attribute in HTML label tags?",
-    "A": "To specify the size of the label",
-    "B": "To define the label's text content",
-    "C": "To associate the label with a form control",
-    "D": "To set the font style of the label",
-    "answer": "C"
-  },
-  {
-    "question": "In React, what is the purpose of the 'key' prop?",
-    "A": "To define a unique identifier for a list of elements",
-    "B": "To specify the initial state of a component",
-    "C": "To handle user input events",
-    "D": "To determine the rendering order of components",
-    "answer": "A"
-  },
+   
+   
   {
     "question": "Which CSS property is used to control the spacing between letters in a text?",
     "A": "word-spacing",
@@ -263,14 +241,7 @@
     "D": "line-spacing",
     "answer": "B"
   },
-  {
-    "question": "What is the purpose of the 'role' attribute in HTML?",
-    "A": "To define the role of an HTML element for accessibility purposes",
-    "B": "To specify the alignment of an HTML element",
-    "C": "To set the size of an HTML element",
-    "D": "To determine the visibility of an HTML element",
-    "answer": "A"
-  },
+  
   {
     "question": "In JavaScript, what is the purpose of the 'typeof' operator?",
     "A": "To determine the data type of a variable or expression",
@@ -815,22 +786,7 @@
     "D": "To identify the element that triggered the event",
     "answer": "D"
   },
-  {
-    "question": "What is the purpose of the 'for' attribute in HTML label tags?",
-    "A": "To specify the size of the label",
-    "B": "To define the label's text content",
-    "C": "To associate the label with a form control",
-    "D": "To set the font style of the label",
-    "answer": "C"
-  },
-  {
-    "question": "In React, what is the purpose of the 'key' prop?",
-    "A": "To define a unique identifier for a list of elements",
-    "B": "To specify the initial state of a component",
-    "C": "To handle user input events",
-    "D": "To determine the rendering order of components",
-    "answer": "A"
-  },
+   
   {
     "question": "Which CSS property is used to control the spacing between letters in a text?",
     "A": "word-spacing",
@@ -879,14 +835,7 @@
     "D": "A type of loop",
     "answer": "A"
   },
-  {
-    "question": "What is the purpose of the 'target' property in JavaScript events?",
-    "A": "To specify the event target",
-    "B": "To determine the event type",
-    "C": "To define the event handler function",
-    "D": "To identify the element that triggered the event",
-    "answer": "D"
-  },
+   
   {
     "question": "What is the purpose of the 'for' attribute in HTML label tags?",
     "A": "To specify the size of the label",
@@ -911,14 +860,7 @@
     "D": "line-spacing",
     "answer": "B"
   },
-  {
-    "question": "What is the purpose of the 'role' attribute in HTML?",
-    "A": "To define the role of an HTML element for accessibility purposes",
-    "B": "To specify the alignment of an HTML element",
-    "C": "To set the size of an HTML element",
-    "D": "To determine the visibility of an HTML element",
-    "answer": "A"
-  },
+  
   {
     "question": "In JavaScript, what is the purpose of the 'typeof' operator?",
     "A": "To determine the data type of a variable or expression",
@@ -1119,22 +1061,7 @@
     "D": "By optimizing image sizes for different screen resolutions",
     "answer": "A"
   },
-  {
-    "question": "What is the purpose of the `fetch()` function in JavaScript?",
-    "A": "To make asynchronous HTTP requests to servers",
-    "B": "To modify the structure of a DOM element",
-    "C": "To create animations on a webpage",
-    "D": "To validate user input in a form",
-    "answer": "A"
-  },
-  {
-    "question": "What are components in React?",
-    "A": "Reusable building blocks for UI elements",
-    "B": "Pre-defined HTML elements like <div> or <span>",
-    "C": "JavaScript functions for manipulating the DOM",
-    "D": "Specialized CSS classes for styling React applications",
-    "answer": "A"
-  },
+   
   {
     "question": "What does the `useState` hook in React return?",
     "A": "A stateful value and a function to update it",
@@ -1183,30 +1110,7 @@
     "D": "To define component lifecycle methods",
     "answer": "A"
   },
-  {
-    "question": "How does Bootstrap simplify web development?",
-    "A": "By providing pre-designed CSS styles and components",
-    "B": "By automating JavaScript code generation",
-    "C": "By optimizing server-side rendering",
-    "D": "By facilitating database management",
-    "answer": "A"
-  },
-  {
-    "question": "What is a class component in React?",
-    "A": "A component defined using ES6 classes",
-    "B": "A CSS class applied to a React element",
-    "C": "A component with predefined styles from a CSS file",
-    "D": "A component with no state or lifecycle methods",
-    "answer": "A"
-  },
-  {
-    "question": "What is the purpose of the `addEventListener()` method in JavaScript?",
-    "A": "Attaches an event handler to an element",
-    "B": "Creates a new DOM element",
-    "C": "Appends an element to the document body",
-    "D": "Updates the CSS style of an element",
-    "answer": "A"
-  },
+   
   {
     "question": "How does WordPress handle user authentication?",
     "A": "Through the use of cookies and sessions",
@@ -1215,14 +1119,7 @@
     "D": "By authenticating users via social media accounts",
     "answer": "A"
   },
-  {
-    "question": "What is the purpose of the `display: flex;` property in CSS?",
-    "A": "To create a flexbox layout for elements",
-    "B": "To hide an element from the page",
-    "C": "To apply a floating effect to an element",
-    "D": "To change the font display of text",
-    "answer": "A"
-  },
+  ,
   {
     "question": "What is the purpose of the `map()` function in JavaScript?",
     "A": "To iterate over an array and apply a function to each element",
@@ -1239,22 +1136,7 @@
     "D": "By optimizing image sizes for different screen resolutions",
     "answer": "A"
   },
-  {
-    "question": "What is the purpose of the `fetch()` function in JavaScript?",
-    "A": "To make asynchronous HTTP requests to servers",
-    "B": "To modify the structure of a DOM element",
-    "C": "To create animations on a webpage",
-    "D": "To validate user input in a form",
-    "answer": "A"
-  },
-  {
-    "question": "What are components in React?",
-    "A": "Reusable building blocks for UI elements",
-    "B": "Pre-defined HTML elements like <div> or <span>",
-    "C": "JavaScript functions for manipulating the DOM",
-    "D": "Specialized CSS classes for styling React applications",
-    "answer": "A"
-  },
+   
   {
     "question": "What does the `useState` hook in React return?",
     "A": "A stateful value and a function to update it",
@@ -1335,38 +1217,7 @@
     "D": "To control the component's state and lifecycle methods",
     "answer": "A"
   },
-  {
-    "question": "What is the purpose of the `innerHTML` property in JavaScript?",
-    "A": "To get or set the HTML content of an element",
-    "B": "To access the internal CSS styles of an element",
-    "C": "To retrieve the metadata of a web page",
-    "D": "To execute a function when an element is clicked",
-    "answer": "A"
-  },
-  {
-    "question": "What is the purpose of the `fetch` API in JavaScript?",
-    "A": "Performs asynchronous HTTP requests to servers",
-    "B": "Provides functionality for manipulating the DOM",
-    "C": "Enables local storage for data persistence",
-    "D": "Offers a way to style web pages",
-    "answer": "A"
-  },
-  {
-    "question": "What is the purpose of the `onClick` event handler in React?",
-    "A": "Executes a function when an element is clicked",
-    "B": "Updates the state of a component",
-    "C": "Renders JSX elements",
-    "D": "Fetches data from an API",
-    "answer": "A"
-  },
-  {
-    "question": "What is the primary function of the `useState` hook in React?",
-    "A": "To manage component state",
-    "B": "To handle user authentication",
-    "C": "To fetch data from a server",
-    "D": "To define component lifecycle methods",
-    "answer": "A"
-  },
+   
   {
     "question": "How does Bootstrap simplify web development?",
     "A": "By providing pre-designed CSS styles and components",
@@ -1391,20 +1242,13 @@
     "D": "Updates the CSS style of an element",
     "answer": "A"
   },
+   
   {
     "question": "How does WordPress handle user authentication?",
     "A": "Through the use of cookies and sessions",
     "B": "By storing passwords in plain text",
     "C": "By encrypting user credentials using SSL",
     "D": "By authenticating users via social media accounts",
-    "answer": "A"
-  },
-  {
-    "question": "What is the purpose of the `display: flex;` property in CSS?",
-    "A": "To create a flexbox layout for elements",
-    "B": "To hide an element from the page",
-    "C": "To apply a floating effect to an element",
-    "D": "To change the font display of text",
     "answer": "A"
   },
   {
@@ -1429,22 +1273,6 @@
     "B": "By automatically generating JavaScript code for responsiveness",
     "C": "By integrating with server-side scripting languages",
     "D": "By optimizing image sizes for different screen resolutions",
-    "answer": "A"
-  },
-  {
-    "question": "What is the purpose of the `fetch()` function in JavaScript?",
-    "A": "To make asynchronous HTTP requests to servers",
-    "B": "To modify the structure of a DOM element",
-    "C": "To create animations on a webpage",
-    "D": "To validate user input in a form",
-    "answer": "A"
-  },
-  {
-    "question": "What are components in React?",
-    "A": "Reusable building blocks for UI elements",
-    "B": "Pre-defined HTML elements like <div> or <span>",
-    "C": "JavaScript functions for manipulating the DOM",
-    "D": "Specialized CSS classes for styling React applications",
     "answer": "A"
   },
   {
@@ -1480,46 +1308,6 @@
     "answer": "A"
   },
   {
-    "question": "What is the purpose of the `onClick` event handler in React?",
-    "A": "Executes a function when an element is clicked",
-    "B": "Updates the state of a component",
-    "C": "Renders JSX elements",
-    "D": "Fetches data from an API",
-    "answer": "A"
-  },
-  {
-    "question": "What is the primary function of the `useState` hook in React?",
-    "A": "To manage component state",
-    "B": "To handle user authentication",
-    "C": "To fetch data from a server",
-    "D": "To define component lifecycle methods",
-    "answer": "A"
-  },
-  {
-    "question": "How does Bootstrap simplify web development?",
-    "A": "By providing pre-designed CSS styles and components",
-    "B": "By automating JavaScript code generation",
-    "C": "By optimizing server-side rendering",
-    "D": "By facilitating database management",
-    "answer": "A"
-  },
-  {
-    "question": "What is a class component in React?",
-    "A": "A component defined using ES6 classes",
-    "B": "A CSS class applied to a React element",
-    "C": "A component with predefined styles from a CSS file",
-    "D": "A component with no state or lifecycle methods",
-    "answer": "A"
-  },
-  {
-    "question": "What is the purpose of the `addEventListener()` method in JavaScript?",
-    "A": "Attaches an event handler to an element",
-    "B": "Creates a new DOM element",
-    "C": "Appends an element to the document body",
-    "D": "Updates the CSS style of an element",
-    "answer": "A"
-  },
-  {
     "question": "How does WordPress handle user authentication?",
     "A": "Through the use of cookies and sessions",
     "B": "By storing passwords in plain text",
@@ -1534,7 +1322,5 @@
     "C": "To apply a floating effect to an element",
     "D": "To change the font display of text",
     "answer": "A"
-  },
-
-
+  }
 ]
